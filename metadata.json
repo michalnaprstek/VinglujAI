@@ -1,0 +1,5 @@
+{
+  "name": "Pythagorean Theorem Calculator",
+  "description": "A modern web application to calculate the longest side (hypotenuse) of a right-angled triangle using the Pythagorean theorem, featuring a dynamic, clear visualization of the triangle.",
+  "requestFramePermissions": []
+}
